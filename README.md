@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, Let's start with an introduction, shall we?
+I'm Abhijeet Avhale and, somehow, curiosity led me to pursue Majors in Physics and the idea of generalizing equations led me to Finance, though both seemingly contrary.
+Pursuing Master's in Physics at NIT Surat since 2020
+Pursuing Finance (Fundamental, Quantitative, and Corporate) through online courses since 2020.
 
-<!--
-**AThreeH1/AThreeH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitatively speaking, I have experience of:
+2 Years - Data Science
+8 Months - Financial Research Analyst
+1 Year - 3D Modelling, Prototyping, Graphic Designing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other than that, Non professionally, I enjoy swimming, dance, hypothesizing weird quantum immortality theorems or continuous chain universes, and the list goes on.
+
+Send me a message to collaborate or to ask any questions!
