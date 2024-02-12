@@ -1,5 +1,5 @@
 ### Hi there, Let's start with an introduction, shall we?
-I'm Abhijeet Avhale and, somehow, curiosity led me to pursue Majors in Physics and the idea of generalizing equations led me to applied mathematics - Finance, though both seemingly contrary.
+I'm Abhijeet Avhale and, somehow, curiosity led me to pursue Majors in Physics and the idea of generalizing equations led me to applied mathematics - Time Series - Finance, though both seemingly contrary.
 Pursuing a Master's in Physics at NIT Surat since 2020.
 Pursuing Data Science and applied mathematics since 2021.
 
