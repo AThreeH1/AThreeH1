@@ -5,7 +5,6 @@ Self-Pursuing Data Science and applied mathematics since 2021.
 
 Quantitatively speaking, I have experience of: \
 4 Years - Data Science \
-8 Months - Financial Research Analyst \
 1 Year - 3D Modelling and Prototyping. 
 
 
